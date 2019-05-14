@@ -17,15 +17,18 @@ sudo apt-get install git
 ### Once you have installed Git, follow the following steps
 
 ```
-mkdir docker-practice
-```
-```
-cd docker-practice
-```
-```
 git clone https://github.com/aamirpinger/docker-slide-code.git
 ```
 ```
 ls
 ```
+```
+cd docker-slide-code/
+```
+```
+ls
+```
+
 ### Now you can see that different folder have been cloned on your system, go to any folder and follow instruction from README file inside each folder
+
+`cd html-js-app` **OR** `cd node-js-app`
